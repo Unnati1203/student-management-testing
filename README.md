@@ -25,7 +25,7 @@ Testing of REST API-based student management system covering CRUD operations.
 - Data integrity testing
 
 📂 Structure
-test-cases/
-postman-collection/
-scripts/
-reports/
+test-cases
+postman-collection
+scripts
+reports
