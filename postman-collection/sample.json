@@ -1,0 +1,14 @@
+{
+  "info": {
+    "name": "Student API Testing"
+  },
+  "item": [
+    {
+      "name": "Get Students",
+      "request": {
+        "method": "GET",
+        "url": "https://api.example.com/students"
+      }
+    }
+  ]
+}
